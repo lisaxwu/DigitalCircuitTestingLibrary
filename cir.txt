@@ -1,0 +1,6 @@
+AND 1 2 4
+INV 3 5
+NAND 3 4 6
+AND 5 6 7
+INPUT  1 2 3 -1
+OUTPUT  7 -1
